@@ -1,0 +1,529 @@
+question,answer
+"The speed of a boat in still water is 25 kmph. If it can travel a certain distance upstream in 1 hr, it would take 15 minutes to travel the same distance downstream. What is the distance it travelled upstream?","Let's denote the speed of the stream as ""v"" kmph.
+
+When the boat is going upstream, its effective speed is reduced by the speed of the stream, so its upstream speed is (25 - v) kmph.
+
+When the boat is going downstream, its effective speed is increased by the speed of the stream, so its downstream speed is (25 + v) kmph.
+
+We are given that the boat takes 1 hour to travel a certain distance upstream and only 15 minutes (which is 0.25 hours) to travel the same distance downstream.
+
+Let's denote the distance travelled upstream as ""d"" km.
+
+Using the formula for distance (distance = speed × time), we can write two equations:
+
+1. For upstream travel: d = (25 - v) × 1
+2. For downstream travel: d = (25 + v) × 0.25
+
+Since the distance ""d"" is the same in both cases, we can set the two equations equal to each other:
+
+(25 - v) × 1 = (25 + v) × 0.25
+
+Now, let's solve for ""v"":
+
+25 - v = (25 + v) × 0.25
+25 - v = 6.25 + 0.25v
+25 - 6.25 = v + 0.25v
+18.75 = 1.25v
+v = 18.75 / 1.25
+v = 15 kmph
+
+Now that we have the speed of the stream, we can find the distance ""d"" using the upstream travel equation:
+
+d = (25 - v) × 1
+d = (25 - 15) × 1
+d = 10 × 1
+d = 10 km
+
+Therefore, the distance the boat travelled upstream is 10 km."
+"The sum of the present age of Henry and Jill is 40. Their present ages are such that 11 years ago, Henry was a certain multiple of Jill's age. If their present ages are 23 and 17, what is the ratio of Henry's age to Jill's age 11 years ago?","Let's first determine their ages 11 years ago.
+
+If Henry is currently 23 years old, then 11 years ago he was 23 - 11 = 12 years old.
+If Jill is currently 17 years old, then 11 years ago she was 17 - 11 = 6 years old.
+
+Now, we can find the ratio of Henry's age to Jill's age 11 years ago.
+
+Henry's age 11 years ago: 12
+Jill's age 11 years ago: 6
+
+The ratio of Henry's age to Jill's age 11 years ago is 12:6, which simplifies to 2:1 (dividing both numbers by 6)."
+"A drink vendor has 60 liters of Maaza, 144 liters of Pepsi and some liters of Sprite. He wants to pack them in cans, so that each can contains the same number of liters of a drink, and doesn't want to mix any two drinks in a can. The least number of cans required is 143. How many liters of Sprite does the vendor have?","To find the least number of cans required to pack all the drinks without mixing, we need to find the greatest common divisor (GCD) of the quantities of Maaza and Pepsi, as the number of liters in each can must be a divisor of both quantities.
+
+The GCD of 60 and 144 is 12 liters (since 60 = 12 * 5 and 144 = 12 * 12). This means each can will contain 12 liters of a drink.
+
+Now, let's calculate the number of cans needed for Maaza and Pepsi:
+
+For Maaza: 60 liters / 12 liters per can = 5 cans
+For Pepsi: 144 liters / 12 liters per can = 12 cans
+
+Total cans for Maaza and Pepsi = 5 + 12 = 17 cans
+
+Since the least number of cans required is 143, the number of cans for Sprite must make up the difference:
+
+Cans for Sprite = 143 - 17 = 126 cans
+
+Now, since each can contains 12 liters, we can find the total liters of Sprite:
+
+Liters of Sprite = 126 cans * 12 liters per can = 1512 liters
+
+Therefore, the vendor has 1512 liters of Sprite."
+ Roden went to a pet shop. He bought 15 gold fish and 7 blue fish. How many fish did he buy?,Roden bought a total of 15 gold fish + 7 blue fish = 22 fish.
+A truck is traveling at a constant rate. It takes the truck 40 seconds to travel a distance of 600 meters. (1 kilometer = 1000 meters) What is the speed of the truck in kilometers per hour?,"To find the speed of the truck in kilometers per hour, we first need to calculate its speed in meters per second and then convert that to kilometers per hour.
+
+Speed in meters per second (m/s) is calculated by dividing the distance traveled by the time taken to travel that distance.
+
+Speed (m/s) = Distance (m) / Time (s)
+
+Given that the truck travels 600 meters in 40 seconds, we can calculate its speed as follows:
+
+Speed (m/s) = 600 meters / 40 seconds = 15 m/s
+
+Now, we need to convert this speed from meters per second to kilometers per hour.
+
+1 kilometer = 1000 meters
+1 hour = 3600 seconds
+
+To convert m/s to km/h, we multiply by 3.6 (since 1 m/s is equivalent to 3.6 km/h):
+
+Speed (km/h) = Speed (m/s) * 3.6
+
+Speed (km/h) = 15 m/s * 3.6 = 54 km/h
+
+Therefore, the speed of the truck is 54 kilometers per hour."
+"Lawrence has 5504 marbles. If he shares them among 64 friends, how many marbles does each friend get?","To find out how many marbles each friend gets, you need to divide the total number of marbles by the number of friends. 
+
+So, 5504 marbles ÷ 64 friends = 86 marbles per friend."
+"A copy machine, working at a constant rate, makes 30 copies per minute. A second copy machine, working at a constant rate, makes 55 copies per minute. Working together at their respective rates, the two machines make a certain number of copies. If they made 2550 copies, how long were they working?","To find out how long both machines were working together, we first need to determine their combined copying rate per minute.
+
+The first machine makes 30 copies per minute, and the second machine makes 55 copies per minute. Together, they make:
+
+30 copies/minute + 55 copies/minute = 85 copies/minute
+
+Now, we know they made a total of 2550 copies together. To find out how long it took them, we divide the total number of copies by their combined rate:
+
+2550 copies / 85 copies/minute = 30 minutes
+
+So, the two machines were working together for 30 minutes to make 2550 copies."
+"in an it company , there are a total of 70 employees including 50 programmers . the number of male employees is 80 , including 35 male programmers . how many employees must be selected to guaranty that we have 3 programmers of the same sex ?","Let's analyze the given information:
+
+- Total employees = 70
+- Total programmers = 50
+- Total male employees = 80 (This seems to be a mistake because the total number of employees is 70, so the number of male employees cannot be 80. Let's assume it's a typo and the actual number of male employees is less than or equal to 70.)
+- Male programmers = 35
+
+We need to find out how many employees must be selected to guarantee that we have 3 programmers of the same sex.
+
+Let's consider the worst-case scenario to ensure we have 3 programmers of the same sex:
+
+- We pick male programmers one by one until we reach 2 male programmers. Since we want to guarantee 3 programmers of the same sex, we have to consider the possibility of picking female programmers next. There are 50 programmers in total, and 35 are male, so there must be 50 - 35 = 15 female programmers.
+
+- We could pick all 15 female programmers next. This would give us 2 male programmers and 15 female programmers, but still not 3 of the same sex.
+
+- Now, if we pick one more programmer, no matter the sex, we will have 3 programmers of the same sex. This is because we already have 2 male programmers, and if we pick another male, we'll have 3 male programmers. If we pick a female, we already have more than 2 female programmers, so we'll have at least 3 female programmers.
+
+So, in the worst-case scenario, we would have to pick 2 (male programmers) + 15 (female programmers) + 1 (to guarantee the third programmer of the same sex) = 18 employees.
+
+Therefore, we must select 18 employees to guarantee that we have 3 programmers of the same sex."
+"Sabrina initially had 84 cookies. She gave 20 cookies to her brother. Her mother then gave Sabrina twice the number of cookies she gave her brother. After that, Sabrina gave one-fifth of her remaining cookies to her sister. Next, her father gave her a quarter of the cookies he had, which was 36. Subsequently, her grandmother gave her one-third of the cookies she had, adding another 15 cookies to Sabrina's collection. Finally, Sabrina gave three-sevenths of her remaining cookies to her cousin and then shared one-fourth of her remaining cookies with her best friend. How many cookies does Sabrina have left?","Let's break down the problem step by step:
+
+1. Sabrina initially had 84 cookies.
+2. She gave 20 cookies to her brother, leaving her with 84 - 20 = 64 cookies.
+3. Her mother then gave her twice the number she gave her brother, so she received 20 * 2 = 40 cookies. Now she has 64 + 40 = 104 cookies.
+4. She gave one-fifth of her remaining cookies to her sister, so she gave away 104 / 5 = 20.8 cookies. Since we're dealing with whole cookies, we'll round this to 21 cookies. Now she has 104 - 21 = 83 cookies.
+5. Her father gave her a quarter of the cookies he had, which was 36. So she received 36 / 4 = 9 cookies. Now she has 83 + 9 = 92 cookies.
+6. Her grandmother gave her one-third of the cookies she had, adding another 15 cookies to Sabrina's collection. Now she has 92 + 15 = 107 cookies.
+7. She gave three-sevenths of her remaining cookies to her cousin, so she gave away 107 * (3/7) = 45.857 cookies. Since we're dealing with whole cookies, we'll round this to 46 cookies. Now she has 107 - 46 = 61 cookies.
+8. Finally, she shared one-fourth of her remaining cookies with her best friend, so she gave away 61 / 4 = 15.25 cookies. Since we're dealing with whole cookies, we'll round this to 15 cookies. Now she has 61 - 15 = 46 cookies.
+
+Sabrina has 46 cookies left."
+"There are 17 teams in the hockey league, and each team faces all the other teams a certain number of times each. There are 1360 games played in the season. How many times does each team face the other teams?","To find out how many times each team faces the other teams, we need to first determine the total number of games that would be played if each team faced each other team once.
+
+Since there are 17 teams, each team will play 16 games (against each of the other teams once). Therefore, the total number of games played if each team faced each other once would be:
+
+Total games = 17 teams * 16 games/team = 272 games
+
+However, we know that there are 1360 games played in the season. This means that the 272 games are played multiple times to reach the total of 1360 games. To find out how many times each team faces the other teams, we divide the total number of games played in the season by the number of games that would be played if each team faced each other once:
+
+Number of times each team faces the others = Total games in the season / Total games if each team faced each other once
+
+Number of times each team faces the others = 1360 games / 272 games = 5
+
+Therefore, each team faces the other teams 5 times during the season."
+"Having scored 97 runs in the 19th inning, a cricketer increases his average score by a certain amount. His average score after 19 innings is 25. By how much did his average score increase?","Let's denote the cricketer's average score after 18 innings as A. This means that the total runs scored by the cricketer after 18 innings would be 18A.
+
+After scoring 97 runs in the 19th inning, the cricketer's new average becomes 25. This means that the total runs scored by the cricketer after 19 innings would be 19 * 25.
+
+We can set up the equation as follows:
+
+Total runs after 18 innings + runs scored in 19th inning = Total runs after 19 innings
+18A + 97 = 19 * 25
+
+Now we can solve for A:
+
+18A + 97 = 475
+18A = 475 - 97
+18A = 378
+A = 378 / 18
+A = 21
+
+The cricketer's average score after 18 innings was 21. After the 19th inning, his average score increased to 25. Therefore, the increase in his average score is:
+
+25 - 21 = 4
+
+The cricketer's average score increased by 4 runs."
+"Zinc, copper, and a third unknown alloy component are melted together in the ratio 9 : 11 : x. What is the weight of the melted mixture, if 28.8 kg of zinc has been consumed in it?","Let's denote the weight of the unknown alloy component as \( X \) kg. According to the given ratio, for every 9 parts of zinc, there are 11 parts of copper and \( x \) parts of the unknown alloy.
+
+If 28.8 kg of zinc corresponds to 9 parts of the ratio, we can find the weight of 1 part by dividing 28.8 kg by 9:
+
+\( \text{Weight of 1 part} = \frac{28.8 \text{ kg}}{9} = 3.2 \text{ kg} \)
+
+Now, we can find the weight of the copper (which corresponds to 11 parts) by multiplying the weight of 1 part by 11:
+
+\( \text{Weight of copper} = 3.2 \text{ kg/part} \times 11 = 35.2 \text{ kg} \)
+
+The weight of the unknown alloy component (which corresponds to \( x \) parts) would be:
+
+\( \text{Weight of unknown alloy} = 3.2 \text{ kg/part} \times x \)
+
+The total weight of the melted mixture is the sum of the weights of zinc, copper, and the unknown alloy component:
+
+\( \text{Total weight} = \text{Weight of zinc} + \text{Weight of copper} + \text{Weight of unknown alloy} \)
+\( \text{Total weight} = 28.8 \text{ kg} + 35.2 \text{ kg} + (3.2 \text{ kg/part} \times x) \)
+\( \text{Total weight} = 64 \text{ kg} + (3.2 \text{ kg/part} \times x) \)
+
+So, the total weight of the melted mixture depends on the value of \( x \), which is the number of parts of the unknown alloy component. Without the value of \( x \), we cannot determine the exact weight of the melted mixture."
+"You should have added 3, but mistakenly added 6 to a certain number, and ended up with 8. What number is this?","Let's call the certain number you should have added 3 to ""x"".
+
+According to the mistake, you added 6 instead of 3 to x, which resulted in 8.
+
+So the equation based on the mistake is:
+
+x + 6 = 8
+
+To find the value of x, we subtract 6 from both sides of the equation:
+
+x + 6 - 6 = 8 - 6
+
+x = 2
+
+Therefore, the certain number is 2."
+"In a class, there are 9 boys and 12 girls. The teacher wants to create groups for a class activity. Each group should consist of three members and must have either exactly two boys and one girl or exactly two girls and one boy. How many possible groups can the teacher form considering these configurations?","To form groups with exactly two boys and one girl, we can calculate the number of combinations using the combination formula:
+
+C(n, k) = n! / (k! * (n - k)!)
+
+For two boys out of nine, the number of combinations is:
+C(9, 2) = 9! / (2! * (9 - 2)!) = 9! / (2! * 7!) = (9 * 8) / (2 * 1) = 36
+
+For one girl out of twelve, the number of combinations is:
+C(12, 1) = 12! / (1! * (12 - 1)!) = 12! / (1! * 11!) = 12 / 1 = 12
+
+The total number of groups with two boys and one girl is the product of the two combinations:
+36 (combinations of boys) * 12 (combinations of girls) = 432
+
+Now, for groups with exactly two girls and one boy, we calculate the combinations similarly:
+
+For two girls out of twelve, the number of combinations is:
+C(12, 2) = 12! / (2! * (12 - 2)!) = 12! / (2! * 10!) = (12 * 11) / (2 * 1) = 66
+
+For one boy out of nine, the number of combinations is:
+C(9, 1) = 9! / (1! * (9 - 1)!) = 9! / (1! * 8!) = 9 / 1 = 9
+
+The total number of groups with two girls and one boy is the product of the two combinations:
+66 (combinations of girls) * 9 (combinations of boys) = 594
+
+Finally, we add the two totals together to get the total number of possible groups:
+432 (two boys, one girl) + 594 (two girls, one boy) = 1026
+
+Therefore, the teacher can form 1026 possible groups considering the given configurations."
+"The average length of 6 ropes is 80 cm. If the average length of a certain fraction of the ropes measures 70 cm, the average of the other ropes is 85 cm. What fraction of the ropes has an average length of 70 cm?","Let's denote the total number of ropes as \( R \) and the fraction of ropes with an average length of 70 cm as \( f \). Since there are 6 ropes in total, \( R = 6 \).
+
+The total length of all the ropes is the average length times the number of ropes, so:
+Total length of all ropes = Average length of all ropes × Number of ropes
+Total length of all ropes = 80 cm × 6 = 480 cm
+
+Let's denote the number of ropes with an average length of 70 cm as \( fR \), where \( f \) is the fraction we want to find. The number of the other ropes would be \( R - fR \).
+
+The total length of the ropes with an average length of 70 cm is:
+Total length of 70 cm ropes = Average length of 70 cm ropes × Number of 70 cm ropes
+Total length of 70 cm ropes = 70 cm × fR
+
+The total length of the other ropes with an average length of 85 cm is:
+Total length of 85 cm ropes = Average length of 85 cm ropes × Number of 85 cm ropes
+Total length of 85 cm ropes = 85 cm × (R - fR)
+
+Since the total length of all ropes is the sum of the lengths of the two groups, we can write:
+480 cm = (70 cm × fR) + (85 cm × (R - fR))
+
+Now we can solve for \( f \):
+480 cm = 70fR + 85R - 85fR
+480 cm = 85R - 15fR
+480 cm = 85 × 6 - 15f × 6
+480 cm = 510 cm - 90f cm
+
+Now, we subtract 510 cm from both sides to isolate the term with \( f \):
+480 cm - 510 cm = -90f cm
+-30 cm = -90f cm
+
+Divide both sides by -90 cm to solve for \( f \):
+f = -30 cm / -90 cm
+f = 1/3
+
+So, the fraction of the ropes with an average length of 70 cm is 1/3."
+"In an examination, it is necessary for a candidate to get 45% of the maximum marks to pass. A candidate who gets some marks fails by 45 marks. The maximum marks are 500. How many marks did the candidate get?","To pass the examination, a candidate needs to get 45% of the maximum marks. The maximum marks are 500.
+
+So, the passing marks = 45% of 500
+= (45/100) * 500
+= 225 marks
+
+The candidate fails by 45 marks, which means the candidate got 45 marks less than the passing marks.
+
+So, the marks obtained by the candidate = Passing marks - 45
+= 225 - 45
+= 180 marks
+
+Therefore, the candidate got 180 marks."
+"Three people are eating cake. Shinyoung ate 1/3, Seokgi 1/4, and Woong ate 1/5 of it. Who ate the most cake?","To determine who ate the most cake, we need to compare the fractions of the cake that each person ate.
+
+Shinyoung ate 1/3 of the cake.
+Seokgi ate 1/4 of the cake.
+Woong ate 1/5 of the cake.
+
+To compare these fractions, it's helpful to find a common denominator. The smallest common denominator for 3, 4, and 5 is 60. So we convert each fraction to an equivalent fraction with a denominator of 60:
+
+Shinyoung: \( \frac{1}{3} = \frac{1 \times 20}{3 \times 20} = \frac{20}{60} \)
+Seokgi: \( \frac{1}{4} = \frac{1 \times 15}{4 \times 15} = \frac{15}{60} \)
+Woong: \( \frac{1}{5} = \frac{1 \times 12}{5 \times 12} = \frac{12}{60} \)
+
+Now we can easily compare the numerators:
+
+Shinyoung: 20/60
+Seokgi: 15/60
+Woong: 12/60
+
+Shinyoung ate the most cake, with 20/60 of the cake, compared to Seokgi's 15/60 and Woong's 12/60."
+"Haley is getting ready to watch a comet fly over her house. She spends some time shopping for a telescope, half an hour getting everything set up in the backyard, three times the setup time making snacks, and 20 minutes watching the comet. She spent 8% of the total time watching the comet, rounded to the nearest percent. How many hours did she spend shopping for a telescope?","Let's denote the time Haley spent shopping for a telescope as \( S \) hours.
+
+According to the information given, the total time \( T \) she spent on all activities is the sum of the time spent shopping for a telescope (\( S \)), setting up the telescope (0.5 hours), making snacks (3 times the setup time, so \( 3 \times 0.5 = 1.5 \) hours), and watching the comet (20 minutes, which is \( \frac{20}{60} \) hours or \( \frac{1}{3} \) hours).
+
+So, we have:
+\[ T = S + 0.5 + 1.5 + \frac{1}{3} \]
+
+We also know that the time spent watching the comet is 8% of the total time:
+\[ \frac{1}{3} = 0.08T \]
+
+Now, let's solve for \( T \):
+\[ T = \frac{\frac{1}{3}}{0.08} \]
+\[ T = \frac{1}{3 \times 0.08} \]
+\[ T = \frac{1}{0.24} \]
+\[ T = \frac{100}{24} \]
+\[ T = \frac{25}{6} \]
+\[ T = 4.1667 \text{ hours} \]
+
+Now we can find \( S \) by plugging \( T \) back into the first equation:
+\[ 4.1667 = S + 0.5 + 1.5 + \frac{1}{3} \]
+\[ 4.1667 = S + 2 + \frac{1}{3} \]
+\[ 4.1667 - 2 - \frac{1}{3} = S \]
+\[ 2.1667 - \frac{1}{3} = S \]
+\[ 2.1667 - 0.3333 = S \]
+\[ S = 1.8334 \text{ hours} \]
+
+So, Haley spent approximately 1.8334 hours shopping for a telescope."
+"New York recorded 5000 new coronavirus cases on a particular week. In the second week, some new coronaviruses cases were recorded by the state. In the third week, 2000 more cases were recorded in the state. The total number of recorded new coronaviruses in the state after the three weeks is 9500. What is the ratio of the number of new cases recorded in the second week to the number of new cases recorded in the first week?","Let's denote the number of new coronavirus cases recorded in the second week as \( x \).
+
+According to the information provided, we have the following:
+
+First week: 5000 cases
+Second week: \( x \) cases
+Third week: 2000 more cases than the second week, which is \( x + 2000 \) cases
+
+The total number of new coronavirus cases recorded after three weeks is 9500. Therefore, we can write the equation:
+
+\( 5000 + x + (x + 2000) = 9500 \)
+
+Now, let's solve for \( x \):
+
+\( 5000 + x + x + 2000 = 9500 \)
+\( 2x + 7000 = 9500 \)
+\( 2x = 9500 - 7000 \)
+\( 2x = 2500 \)
+\( x = 2500 / 2 \)
+\( x = 1250 \)
+
+So, the number of new cases recorded in the second week is 1250.
+
+Now, we need to find the ratio of the number of new cases recorded in the second week to the number of new cases recorded in the first week:
+
+Ratio = Number of cases in the second week / Number of cases in the first week
+Ratio = 1250 / 5000
+Ratio = 1 / 4
+
+Therefore, the ratio of the number of new cases recorded in the second week to the number of new cases recorded in the first week is 1:4."
+"What is the smallest number which when increased by 3 is divisible by 12, 15, 35, and 40?","To find the smallest number that when increased by 3 is divisible by 12, 15, 35, and 40, we need to find the least common multiple (LCM) of these numbers and then subtract 3.
+
+First, let's find the prime factorization of each number:
+
+- 12 = 2^2 * 3
+- 15 = 3 * 5
+- 35 = 5 * 7
+- 40 = 2^3 * 5
+
+Now, we find the LCM by taking the highest powers of all prime factors that appear in any of the numbers:
+
+- The highest power of 2 that appears is 2^3 (from 40).
+- The highest power of 3 that appears is 3^1 (from 12 and 15).
+- The highest power of 5 that appears is 5^1 (from 15, 35, and 40).
+- The highest power of 7 that appears is 7^1 (from 35).
+
+So, the LCM is 2^3 * 3^1 * 5^1 * 7^1 = 8 * 3 * 5 * 7 = 840.
+
+The smallest number that when increased by 3 is divisible by 12, 15, 35, and 40 is the LCM minus 3:
+
+840 - 3 = 837
+
+Therefore, 837 is the smallest number that when increased by 3 is divisible by 12, 15, 35, and 40."
+How many moles of Barium hydroxide are formed when 2 moles of Barium oxide react with 2 moles of Water?,"The reaction between barium oxide (BaO) and water (H2O) to form barium hydroxide (Ba(OH)2) can be represented by the following balanced chemical equation:
+
+BaO + H2O → Ba(OH)2
+
+From the balanced equation, we can see that 1 mole of barium oxide reacts with 1 mole of water to produce 1 mole of barium hydroxide.
+
+Given that we have 2 moles of barium oxide and 2 moles of water, we can use the stoichiometry of the reaction to determine the amount of barium hydroxide formed.
+
+Since the molar ratio of BaO to Ba(OH)2 is 1:1, 2 moles of BaO will react with 2 moles of H2O to form 2 moles of Ba(OH)2.
+
+Therefore, 2 moles of barium hydroxide are formed when 2 moles of barium oxide react with 2 moles of water."
+Hammers and wrenches are manufactured at a uniform weight per hammer and a uniform weight per wrench. The total weight of two hammers and two wrenches is some fraction of the weight of 8 hammers and 5 wrenches. The total weight of one wrench is 2 times that of one hammer. What is the fraction?,"Let the weight of one hammer be \( h \) and the weight of one wrench be \( w \).
+
+According to the given information, we have:
+
+\( w = 2h \)
+
+The total weight of two hammers and two wrenches is:
+
+\( 2h + 2w \)
+
+The total weight of eight hammers and five wrenches is:
+
+\( 8h + 5w \)
+
+We want to find the fraction of the total weight of two hammers and two wrenches to the total weight of eight hammers and five wrenches. So, we have:
+
+\( \frac{2h + 2w}{8h + 5w} \)
+
+Substitute \( w \) with \( 2h \) in the equation:
+
+\( \frac{2h + 2(2h)}{8h + 5(2h)} \)
+
+Simplify the equation:
+
+\( \frac{2h + 4h}{8h + 10h} \)
+
+\( \frac{6h}{18h} \)
+
+Since \( h \) is a common factor in the numerator and denominator, we can cancel it out:
+
+\( \frac{6}{18} \)
+
+Simplify the fraction by dividing both the numerator and the denominator by 6:
+
+\( \frac{1}{3} \)
+
+Therefore, the fraction is \( \frac{1}{3} \)."
+"2 pipes can separately fill a tank in 20 hrs and 30 hrs respectively . both the pipes are opened to fillthe tank , a leak develops in the tank through which one - third of water supplied by both the pipes goes out . what is the total time taken to fill the tank ?","Let's calculate the rate at which each pipe fills the tank and then find the combined rate, taking into account the leak.
+
+Pipe 1 fills the tank in 20 hours, so its rate is 1/20 of the tank per hour.
+Pipe 2 fills the tank in 30 hours, so its rate is 1/30 of the tank per hour.
+
+When both pipes are open, their combined rate is:
+(1/20) + (1/30) = (3/60) + (2/60) = 5/60 = 1/12 of the tank per hour.
+
+However, there is a leak that lets out one-third of the water supplied by both pipes. This means that only two-thirds of the water supplied by the pipes actually goes into filling the tank.
+
+So, the effective rate at which the tank is being filled is two-thirds of 1/12:
+(2/3) * (1/12) = 2/36 = 1/18 of the tank per hour.
+
+Now, to fill the tank completely at this effective rate, we need to find the time taken to fill 1 tank:
+Time = 1 / (Effective rate)
+Time = 1 / (1/18)
+Time = 18 hours.
+
+Therefore, it will take 18 hours to fill the tank with both pipes open and accounting for the leak."
+"Paul got a box of 479 crayons for his birthday. At the end of the school year, he had some crayons left. 345 crayons had been lost or given away. How many crayons did Paul have left at the end of the school year?","Paul started with 479 crayons. He lost or gave away 345 crayons. To find out how many crayons he had left, we subtract the number of crayons lost or given away from the original number of crayons:
+
+479 crayons - 345 crayons = 134 crayons
+
+So, Paul had 134 crayons left at the end of the school year."
+"A person can swim in still water at 12 km/h. If the speed of water is a certain speed, the man takes 1 hour to swim back against the current for 10 km. What is the speed of the water?","Let's denote the speed of the water as \( v \) km/h.
+
+When the person swims against the current, their effective speed is reduced by the speed of the water. Therefore, the effective speed of the person swimming against the current is \( (12 - v) \) km/h.
+
+We know that the person takes 1 hour to swim 10 km against the current. We can use the formula for speed, which is:
+
+\[ \text{Speed} = \frac{\text{Distance}}{\text{Time}} \]
+
+Plugging in the values we have:
+
+\[ 12 - v = \frac{10 \text{ km}}{1 \text{ hour}} \]
+
+\[ 12 - v = 10 \]
+
+Now, we can solve for \( v \):
+
+\[ v = 12 - 10 \]
+
+\[ v = 2 \text{ km/h} \]
+
+So, the speed of the water is 2 km/h."
+"An envelope weighs some grams, and 880 of these envelopes are sent with an advertisement mail. The total weight is 7.48 kg. How much does one envelope weigh?","To find the weight of one envelope, we need to divide the total weight of all the envelopes by the number of envelopes.
+
+Total weight of all envelopes = 7.48 kg
+Number of envelopes = 880
+
+First, we need to convert the total weight from kilograms to grams because the weight of one envelope is expected to be in grams.
+
+1 kg = 1000 grams
+
+So, 7.48 kg = 7.48 * 1000 grams
+7.48 kg = 7480 grams
+
+Now, we divide the total weight in grams by the number of envelopes to find the weight of one envelope.
+
+Weight of one envelope = Total weight in grams / Number of envelopes
+Weight of one envelope = 7480 grams / 880 envelopes
+
+Now, we calculate the weight of one envelope.
+
+Weight of one envelope = 8.5 grams
+
+Therefore, one envelope weighs 8.5 grams."
+"A small airplane can seat 10 people in first class, 30 in business class, and 50 in economy class seating. If economy class is half full, and business class and first class have the same number of people together as economy class, how many seats are unoccupied in business class if only three people on the flight have first class seats?","Let's calculate the number of people in each class:
+
+First class has 3 people.
+Economy class is half full, so it has 50 / 2 = 25 people.
+Business class and first class together have the same number of people as economy class, so business class and first class together have 25 people.
+
+Since we know first class has 3 people, we can find the number of people in business class by subtracting the number of people in first class from the total number of people in both classes:
+
+Number of people in business class = Total in business and first class - Number in first class
+Number of people in business class = 25 - 3
+Number of people in business class = 22
+
+Now, let's find out how many seats are unoccupied in business class:
+
+Unoccupied seats in business class = Total seats in business class - Occupied seats in business class
+Unoccupied seats in business class = 30 - 22
+Unoccupied seats in business class = 8
+
+So, there are 8 unoccupied seats in business class."
+Delaney has to catch a bus that leaves at 8:00. a.m to school every day. He always takes 30 minutes to reach the pick-up point from his home. One day he woke up late and left his home at 7:50. How much time did he miss the bus by when he reached the pick-up point?,"If Delaney takes 30 minutes to reach the pick-up point and he left his home at 7:50 a.m., he would reach the pick-up point at 8:20 a.m. (since 7:50 a.m. + 30 minutes = 8:20 a.m.).
+
+The bus leaves at 8:00 a.m., so by the time Delaney reaches the pick-up point at 8:20 a.m., he would have missed the bus by 20 minutes (since 8:20 a.m. - 8:00 a.m. = 20 minutes)."
+"The next act involved several jugglers. If each juggler is juggling a certain number of balls at a time, 2268 balls are needed if there are 378 jugglers putting a show at the same time. How many balls is each juggler juggling at a time?","To find out how many balls each juggler is juggling at a time, we need to divide the total number of balls by the number of jugglers.
+
+So, we take the total number of balls, which is 2268, and divide it by the number of jugglers, which is 378.
+
+2268 ÷ 378 = 6
+
+Each juggler is juggling 6 balls at a time."
+"Coach Tim has a team of 11 players, 5 of them didn't receive cautions, the rest received one yellow card each. The whole team would collect a certain number of red cards, knowing that each red card corresponds to a specific number of yellow cards. How many yellow cards does each red card correspond to?","To solve this problem, we need to know the specific number of red cards the whole team collected, which is not provided in the question. Without this information, we cannot determine how many yellow cards correspond to each red card. 
+
+In football, typically a red card is given either directly for a serious offense or for receiving two yellow cards in the same match. If we assume the latter case, then each red card would correspond to two yellow cards. However, without the exact number of red cards, we cannot provide a definitive answer. Could you please provide the number of red cards the team received?"
